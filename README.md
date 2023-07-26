@@ -1,7 +1,8 @@
 # Computer Science and Programming - Version 4.0
 
 This is a condensed verion of [fullREADME.MD](https://github.com/onemokang/p1xt-guides/blob/master/fullREADME.md) to suit my specific needs and to help me track my progress more effectively.
-I skipepd Tier X as I already had enough knowledge on the listed topics and materials
+
+I skipepd Tier X as I already had enough knowledge on the listed topics and materials.
 
 ## Junior developer
 
