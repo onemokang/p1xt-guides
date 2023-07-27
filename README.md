@@ -6,31 +6,6 @@ I skipped Tier X as I already had enough knowledge and exposure to the listed to
 
 ## Junior developer
 
-### Tier X - Math Prep
-
-Math will be relevant throughout the guide. Begin it as you start the guide, and incrementally work through it alongside the guide. (You need not finish this before moving to tier 0, or tier 1, but be actively working on it alongside them.)
-
-| Courses                                                       | Status | Evidence |
-| :------------------------------------------------------------ | :----:  | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         | skipped |          |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       | skipped |          |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) | skipped |          |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   | skipped |          |
-
-### Tier X - Programming Prep Prep
-
-A very gentle introduction, complete if feel you would benefit from it, skip if you'd rather dive right into tier 0
-
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            | skipped           |              |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             | skipped           |              |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            | skipped           |              |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    | skipped           |              |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        | skipped           |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | skipped           |              |
-
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
