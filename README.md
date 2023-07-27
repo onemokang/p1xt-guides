@@ -2,7 +2,7 @@
 
 This is a condensed verion of [fullREADME.MD](https://github.com/onemokang/p1xt-guides/blob/master/fullREADME.md) to suit my specific needs and to help me track my progress more effectively.
 
-I skipped Tier X as I already had enough knowledge and exposure to the listed topics and materials.
+I skipped Tier X courses as I already had enough knowledge and exposure to the listed topics and materials.
 
 
 ## Junior developer
