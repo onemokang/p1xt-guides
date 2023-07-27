@@ -9,7 +9,9 @@ I skipped Tier X courses as I already had enough knowledge and exposure to the l
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
+Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
+
+My notes and quizzes can be found [here](https://github.com/onemokang/App-Academy-Open)
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
@@ -34,7 +36,6 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 Deepen understanding of Web Development and begin learning Computer Science topics.
 
-If you didn't do App Academy Open in Tier 0, please consider doing it as your Specialization in this Tier.
 
 | Courses                                                                                                                                                                                                |   Status   |   Evidence   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
