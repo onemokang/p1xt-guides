@@ -4,6 +4,7 @@ This is a condensed verion of [fullREADME.MD](https://github.com/onemokang/p1xt-
 
 I skipped Tier X as I already had enough knowledge and exposure to the listed topics and materials.
 
+
 ## Junior developer
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
