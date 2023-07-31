@@ -2,36 +2,11 @@
 
 This is a condensed verion of [originalREADME.MD](https://github.com/onemokang/p1xt-guides/blob/master/originalREADME.md) to suit my specific needs and to help me track my progress more effectively.
 
-I skipped Tier X courses as I already had enough knowledge and exposure to the listed topics and materials.
+I skipped Tier X courses as I already had enough knowledge and exposure to the listed topics and materials. <br>
 I also started Tier 0 - Web Development - Fullstack Bootcamp, but eventually skipepd because of [CODA](https://github.com/onemokang/App-Academy-Open).
 
 
 ## Junior developer
-
-### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
-
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
-
-My notes and quizzes can be found [here](https://github.com/onemokang/App-Academy-Open)
-
-| Courses                                                                                                                                                               |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     | In Progress           |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
-| Full Stack Online - Ruby                                                                                                                                              |            |              |
-| Full Stack Online - SQL                                                                                                                                               |            |              |
-| Full Stack Online - Rails                                                                                                                                             |            |              |
-| Full Stack Online - JavaScript                                                                                                                                        |            |              |
-| Full Stack Online - React                                                                                                                                             |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                |            |              |
-| Full Stack Online - MERN Stack Curriculum                                                                                                                            |            |              |
-| Full Stack Online - Job Search                                                                                                                                        |            |              |
-| Full Stack Online - Docker                                                                                                                                            |            |              |
-| Full Stack Online - GraphQL                                                                                                                                           |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                    |            |              |
-| **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
 ### Tier 1 - Getting Started
 
