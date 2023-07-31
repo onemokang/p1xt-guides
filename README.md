@@ -2,8 +2,8 @@
 
 This is a condensed verion of [originalREADME.MD](https://github.com/onemokang/p1xt-guides/blob/master/originalREADME.md) to suit my specific needs and to help me track my progress more effectively.
 
-I skipped Tier X courses as I already had enough knowledge and exposure to the listed topics and materials. <br>
-I also started Tier 0 - Web Development - Fullstack Bootcamp, but eventually skipepd because of [CODA](https://github.com/onemokang/App-Academy-Open).
+- I skipped Tier X courses as I already had enough knowledge and exposure to the listed topics and materials. <br>
+- I also started Tier 0 - Web Development - Fullstack Bootcamp, but eventually skipepd because of [CODA](https://github.com/onemokang/App-Academy-Open).
 
 
 ## Junior developer
